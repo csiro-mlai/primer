@@ -2,7 +2,7 @@
 
 [Schedule](https://gitlab.com/mlai-csiro/primer/wikis/home)
 
-Online material
+Online material for the course
 - Machine Learning slides ([11.pdf](./11.pdf) [12.pdf](./13.pdf))
 - Machine Learning tutorial ([11.ypynb](./11.ypynb) [12.ypynb](./13.ypynb))
 - Computer Vision slides ([21.pdf](./21.pdf))
