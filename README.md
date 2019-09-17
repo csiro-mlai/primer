@@ -1,6 +1,6 @@
 # MLAI FSP Primer
 
-[Schedule](https://gitlab.com/mlai-csiro/primer/wikis/home)
+[Schedule](./schedule.md)
 
 Online material for the course
 - Machine Learning slides ([11.pdf](./11.pdf) [12.pdf](./13.pdf))
