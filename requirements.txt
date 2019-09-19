@@ -1,0 +1,4 @@
+pytorch>=1.1
+scikit-learn
+umap-learn
+imbalanced-learn
