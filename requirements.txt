@@ -1,5 +1,7 @@
 torchvision
 scikit-learn
+pandas
+seaborn
 umap-learn
 imbalanced-learn
 matplotlib
