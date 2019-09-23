@@ -3,13 +3,12 @@
 [Schedule](./schedule.md)
 
 Online material for the course
-- Machine Learning slides ([part 1](./11.pdf), [part 2](./12.pdf))
-- Machine Learning tutorial ([notebook 1](./11.ypynb), [notebook 2](./12.ypynb))
+- Machine Learning ([notebook with slides](./ML-01.ipynb))
 - Computer Vision slides 
   ([part 1](./CV_Slides_Part_1.pdf), [part 2](./CV_Slides_Part_2.pdf))
 - Computer Vision tutorial 
-  ([notebook 1](./CV_1.ypynb), [notebook 2](./CV_2.ypynb),
-  [notebook 3](./CV_3.ypynb), [notebook 4](./CV_4.ypynb))
+  ([notebook 1](./CV_1.ipynb), [notebook 2](./CV_2.ipynb),
+  [notebook 3](./CV_3.ipynb), [notebook 4](./CV_4.ipynb))
 
 We are offering a one day course providing insights into the areas of 
 Machine Learning (ML) and Computer Vision (CV). The purpose is for everyone to 
